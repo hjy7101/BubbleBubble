@@ -56,19 +56,19 @@
     <Analyzer Include="/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Analyzers/Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/Player.cs" />
-    <Compile Include="Assets/Bubble.cs" />
     <Compile Include="Assets/Common/GOHelper.cs" />
-    <Compile Include="Assets/Common/ListItemMonobehaviour.cs" />
-    <Compile Include="Assets/Common/MyExtension.cs" />
+    <Compile Include="Assets/Player.cs" />
     <Compile Include="Assets/Common/EditorOption.cs" />
     <Compile Include="Assets/Common/GORotate.cs" />
-    <Compile Include="Assets/Common/EditorButtonHelper.cs" />
-    <Compile Include="Assets/Common/TimeController.cs" />
     <Compile Include="Assets/Common/ChangeTextureOffset.cs" />
+    <Compile Include="Assets/Common/MyExtension.cs" />
+    <Compile Include="Assets/Bubble.cs" />
+    <Compile Include="Assets/Common/TimeController.cs" />
+    <Compile Include="Assets/HideSpriteRenderer.cs" />
+    <Compile Include="Assets/Common/ListItemMonobehaviour.cs" />
     <Compile Include="Assets/Common/GODestroyer.cs" />
     <Compile Include="Assets/Monster.cs" />
-    <Compile Include="Assets/HideSpriteRenderer.cs" />
+    <Compile Include="Assets/Common/EditorButtonHelper.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

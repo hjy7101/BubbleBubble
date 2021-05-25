@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9A944D4E-11F5-8AB7-5DED-ECCE02DE110D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Monster.cs">
+    <Files>
+      <File FileName="Assets/Monster.cs" Line="26" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BubbleBubble" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Monster.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f7688373-3bf0-498f-b206-24ab4f00b048" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

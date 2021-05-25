@@ -22,7 +22,7 @@ public class Monster : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         var rotation = transform.rotation;
-        if (rotation.y == 1)
+        if (rotation.y == 0)
             rotation.y = 180;
         else
             rotation.y = 0;
