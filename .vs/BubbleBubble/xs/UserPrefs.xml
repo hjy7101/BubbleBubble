@@ -1,7 +1,10 @@
 ﻿<Properties StartupConfiguration="{9A944D4E-11F5-8AB7-5DED-ECCE02DE110D}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Monster.cs">
     <Files>
-      <File FileName="Assets/Monster.cs" Line="26" Column="30" />
+      <File FileName="Assets/Monster.cs" Line="25" Column="31" />
+      <File FileName="Assets/HideSpriteRenderer.cs" Line="4" Column="1" />
+      <File FileName="Assets/Player.cs" Line="5" Column="1" />
+      <File FileName="Assets/Bubble.cs" Line="4" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,7 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="f7688373-3bf0-498f-b206-24ab4f00b048" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0cfbb385-c6b4-4fe9-a7f6-4ffb4eecb1aa" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -19,6 +19,7 @@ public class Monster : MonoBehaviour
         pos.x += speed * transform.forward.z;
         rigidbody2D.position = pos;
     }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         var rotation = transform.rotation;
