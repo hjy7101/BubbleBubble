@@ -160,6 +160,9 @@ MonoBehaviour:
   speed: 1
   rigidbody2D: {fileID: 3035061127980351156}
   gravityScale: -0.7
+  wallLayer:
+    serializedVersion: 2
+    m_Bits: 512
 --- !u!114 &-1370327936116842263
 MonoBehaviour:
   m_ObjectHideFlags: 0

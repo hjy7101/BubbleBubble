@@ -1,0 +1,156 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.5f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/yuhyejin/Desktop/게임프로그래밍/BubbleBubble
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53752
+Successfully changed project path to: /Users/yuhyejin/Desktop/게임프로그래밍/BubbleBubble
+/Users/yuhyejin/Desktop/게임프로그래밍/BubbleBubble
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 97.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.5f1 (8095aa901b9b)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.5f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/yuhyejin/Desktop/게임프로그래밍/BubbleBubble/Assets
+GfxDevice: creating device client; threaded=0
+2021-05-26 21:52:04.107 Unity[13525:253716] Color LCD preferred device: Intel(R) Iris(TM) Graphics 6000 (low power)
+2021-05-26 21:52:04.107 Unity[13525:253716] Metal devices available: 1
+2021-05-26 21:52:04.107 Unity[13525:253716] 0: Intel(R) Iris(TM) Graphics 6000 (low power)
+2021-05-26 21:52:04.108 Unity[13525:253716] Using device Intel(R) Iris(TM) Graphics 6000 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Graphics 6000
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.5f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.5f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.5f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56525
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.5f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.5f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.017402 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 91.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in 16.171 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002988 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 64.01 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.977 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.5f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1828 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 153.9 MB.
+System memory in use after: 154.0 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2275.
+Total: 4.594033 ms (FindLiveObjects: 0.466080 ms CreateObjectMapping: 0.237323 ms MarkObjects: 3.791077 ms  DeleteObjects: 0.097798 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Sprites/Bubble/Bubble.psd
+  artifactKey: Guid(0b3b9432b04eb46efa28967d89075900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Bubble/Bubble.psd using Guid(0b3b9432b04eb46efa28967d89075900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '882faf5681289bd19060b5f5b7f743f4') in 2.818623 seconds
+  Import took 2.825011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 632.838584 seconds.
+  path: Assets/main.unity
+  artifactKey: Guid(520f8486940040d479ac0886a704a11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/main.unity using Guid(520f8486940040d479ac0886a704a11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '560b638243b860a9be8c2b502bdc1c3c') in 0.006265 seconds
+  Import took 0.013658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006640 seconds.
+  path: Assets/main.unity
+  artifactKey: Guid(520f8486940040d479ac0886a704a11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/main.unity using Guid(520f8486940040d479ac0886a704a11d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '560b638243b860a9be8c2b502bdc1c3c') in 0.003069 seconds
+  Import took 0.014442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 133.567910 seconds.
+  path: Assets/Bubble.cs
+  artifactKey: Guid(ef780b1cda49f424394a2679288dbd83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bubble.cs using Guid(ef780b1cda49f424394a2679288dbd83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8177d4ae8ef5897445d131e2795fde01') in 0.787338 seconds
+  Import took 0.795166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.054426 seconds.
+  path: Assets/Bubble.cs
+  artifactKey: Guid(ef780b1cda49f424394a2679288dbd83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bubble.cs using Guid(ef780b1cda49f424394a2679288dbd83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8177d4ae8ef5897445d131e2795fde01') in 0.003602 seconds
+  Import took 0.009403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.132985 seconds.
+  path: Assets/HideSpriteRenderer.cs
+  artifactKey: Guid(ca528f06926da4b44946c2888f8b9bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HideSpriteRenderer.cs using Guid(ca528f06926da4b44946c2888f8b9bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8cc1e974d52c512dae59bf25106d20c') in 0.005103 seconds
+  Import took 0.011594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009596 seconds.
+  path: Assets/HideSpriteRenderer.cs
+  artifactKey: Guid(ca528f06926da4b44946c2888f8b9bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HideSpriteRenderer.cs using Guid(ca528f06926da4b44946c2888f8b9bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8cc1e974d52c512dae59bf25106d20c') in 0.006844 seconds
+  Import took 0.013420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.588784 seconds.
+  path: Assets/Player.cs
+  artifactKey: Guid(5ee0896d50ff14417855cc899b374179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player.cs using Guid(5ee0896d50ff14417855cc899b374179) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c991c87169268b5d5228b2b01e10acda') in 0.006871 seconds
+  Import took 0.015150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 413.177073 seconds.
+  path: Assets/Sprites/Bubble/BubbleExplosion.psd
+  artifactKey: Guid(08781484afe71423397a39c288e1f466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Bubble/BubbleExplosion.psd using Guid(08781484afe71423397a39c288e1f466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '714767c7a21f0b350cd1ddcde5b3b8a7') in 0.073737 seconds
+  Import took 0.081830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 125.787516 seconds.
+  path: Assets/Sprites/Bubble/BubbleExplosion.psd
+  artifactKey: Guid(08781484afe71423397a39c288e1f466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Bubble/BubbleExplosion.psd using Guid(08781484afe71423397a39c288e1f466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '131ac999b49331783186043a29802a00') in 0.053850 seconds
+  Import took 0.059860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.067489 seconds.
+  path: Assets/Sprites/Bubble/BubbleExplosion 2.psd
+  artifactKey: Guid(71bc2c17f2aeb460a8503671b8dc1a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Bubble/BubbleExplosion 2.psd using Guid(71bc2c17f2aeb460a8503671b8dc1a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7255f7c9b8d1396db8f3f25d4d0dbccc') in 0.030816 seconds
+  Import took 0.040488 seconds .
+
